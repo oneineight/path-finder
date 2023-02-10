@@ -15,7 +15,7 @@
   },
   "resources": [
   ],
-  "source-url": "git://github.com/leont/path-iterator.git",
+  "source-url": "git://github.com/leont/path-finder.git",
   "tags": [
   ],
   "test-depends": [
